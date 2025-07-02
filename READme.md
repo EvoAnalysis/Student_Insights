@@ -1,4 +1,4 @@
-# 📊 Student Insights: Institutional Data Analysis
+# 📊 Student Insights: Data Analysis Project
 
 ## 🎯 Project Objective
 This project showcases hands-on skill using **SAS**, **SQL**, and **Power BI** to clean, query, and visualize structured data. The goal is to explore student-related trends in enrollment, completions, retention, and staffing through real tools and processes.
