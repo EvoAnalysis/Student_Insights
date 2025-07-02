@@ -82,6 +82,6 @@ This is a portfolio project using mock data to demonstrate data workflow and tec
 
 ## 👤 Author
 Evon Williams  
-📍 Mableton, GA  
+📍 Atlanta, GA  
 🔗 [GitHub: EvoAnalysis](https://github.com/EvoAnalysis)  
 🔗 [LinkedIn](https://linkedin.com/in/evon-williams-03729989)
