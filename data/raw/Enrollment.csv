@@ -1,0 +1,901 @@
+Year,Gender,Race,Age_Group,Residency,Distance_Ed_Status,Headcount
+2019,Male,White,24 and under,In-state,Only Distance Ed,98
+2019,Male,White,24 and under,In-state,Some Distance Ed,54
+2019,Male,White,24 and under,In-state,None,133
+2019,Male,White,24 and under,Out-of-state,Only Distance Ed,79
+2019,Male,White,24 and under,Out-of-state,Some Distance Ed,78
+2019,Male,White,24 and under,Out-of-state,None,72
+2019,Male,White,24 and under,Foreign,Only Distance Ed,249
+2019,Male,White,24 and under,Foreign,Some Distance Ed,70
+2019,Male,White,24 and under,Foreign,None,71
+2019,Male,White,25 and over,In-state,Only Distance Ed,36
+2019,Male,White,25 and over,In-state,Some Distance Ed,137
+2019,Male,White,25 and over,In-state,None,294
+2019,Male,White,25 and over,Out-of-state,Only Distance Ed,245
+2019,Male,White,25 and over,Out-of-state,Some Distance Ed,218
+2019,Male,White,25 and over,Out-of-state,None,216
+2019,Male,White,25 and over,Foreign,Only Distance Ed,146
+2019,Male,White,25 and over,Foreign,Some Distance Ed,108
+2019,Male,White,25 and over,Foreign,None,239
+2019,Male,Black or African American,24 and under,In-state,Only Distance Ed,27
+2019,Male,Black or African American,24 and under,In-state,Some Distance Ed,123
+2019,Male,Black or African American,24 and under,In-state,None,146
+2019,Male,Black or African American,24 and under,Out-of-state,Only Distance Ed,86
+2019,Male,Black or African American,24 and under,Out-of-state,Some Distance Ed,169
+2019,Male,Black or African American,24 and under,Out-of-state,None,167
+2019,Male,Black or African American,24 and under,Foreign,Only Distance Ed,177
+2019,Male,Black or African American,24 and under,Foreign,Some Distance Ed,153
+2019,Male,Black or African American,24 and under,Foreign,None,228
+2019,Male,Black or African American,25 and over,In-state,Only Distance Ed,36
+2019,Male,Black or African American,25 and over,In-state,Some Distance Ed,231
+2019,Male,Black or African American,25 and over,In-state,None,92
+2019,Male,Black or African American,25 and over,Out-of-state,Only Distance Ed,23
+2019,Male,Black or African American,25 and over,Out-of-state,Some Distance Ed,154
+2019,Male,Black or African American,25 and over,Out-of-state,None,139
+2019,Male,Black or African American,25 and over,Foreign,Only Distance Ed,50
+2019,Male,Black or African American,25 and over,Foreign,Some Distance Ed,116
+2019,Male,Black or African American,25 and over,Foreign,None,182
+2019,Male,Hispanic,24 and under,In-state,Only Distance Ed,188
+2019,Male,Hispanic,24 and under,In-state,Some Distance Ed,286
+2019,Male,Hispanic,24 and under,In-state,None,96
+2019,Male,Hispanic,24 and under,Out-of-state,Only Distance Ed,164
+2019,Male,Hispanic,24 and under,Out-of-state,Some Distance Ed,56
+2019,Male,Hispanic,24 and under,Out-of-state,None,155
+2019,Male,Hispanic,24 and under,Foreign,Only Distance Ed,136
+2019,Male,Hispanic,24 and under,Foreign,Some Distance Ed,106
+2019,Male,Hispanic,24 and under,Foreign,None,145
+2019,Male,Hispanic,25 and over,In-state,Only Distance Ed,115
+2019,Male,Hispanic,25 and over,In-state,Some Distance Ed,134
+2019,Male,Hispanic,25 and over,In-state,None,177
+2019,Male,Hispanic,25 and over,Out-of-state,Only Distance Ed,227
+2019,Male,Hispanic,25 and over,Out-of-state,Some Distance Ed,128
+2019,Male,Hispanic,25 and over,Out-of-state,None,10
+2019,Male,Hispanic,25 and over,Foreign,Only Distance Ed,173
+2019,Male,Hispanic,25 and over,Foreign,Some Distance Ed,267
+2019,Male,Hispanic,25 and over,Foreign,None,287
+2019,Male,Asian,24 and under,In-state,Only Distance Ed,203
+2019,Male,Asian,24 and under,In-state,Some Distance Ed,180
+2019,Male,Asian,24 and under,In-state,None,228
+2019,Male,Asian,24 and under,Out-of-state,Only Distance Ed,256
+2019,Male,Asian,24 and under,Out-of-state,Some Distance Ed,269
+2019,Male,Asian,24 and under,Out-of-state,None,218
+2019,Male,Asian,24 and under,Foreign,Only Distance Ed,109
+2019,Male,Asian,24 and under,Foreign,Some Distance Ed,265
+2019,Male,Asian,24 and under,Foreign,None,294
+2019,Male,Asian,25 and over,In-state,Only Distance Ed,269
+2019,Male,Asian,25 and over,In-state,Some Distance Ed,35
+2019,Male,Asian,25 and over,In-state,None,47
+2019,Male,Asian,25 and over,Out-of-state,Only Distance Ed,267
+2019,Male,Asian,25 and over,Out-of-state,Some Distance Ed,85
+2019,Male,Asian,25 and over,Out-of-state,None,244
+2019,Male,Asian,25 and over,Foreign,Only Distance Ed,23
+2019,Male,Asian,25 and over,Foreign,Some Distance Ed,165
+2019,Male,Asian,25 and over,Foreign,None,278
+2019,Male,Two or more races,24 and under,In-state,Only Distance Ed,30
+2019,Male,Two or more races,24 and under,In-state,Some Distance Ed,186
+2019,Male,Two or more races,24 and under,In-state,None,121
+2019,Male,Two or more races,24 and under,Out-of-state,Only Distance Ed,73
+2019,Male,Two or more races,24 and under,Out-of-state,Some Distance Ed,284
+2019,Male,Two or more races,24 and under,Out-of-state,None,250
+2019,Male,Two or more races,24 and under,Foreign,Only Distance Ed,258
+2019,Male,Two or more races,24 and under,Foreign,Some Distance Ed,10
+2019,Male,Two or more races,24 and under,Foreign,None,30
+2019,Male,Two or more races,25 and over,In-state,Only Distance Ed,150
+2019,Male,Two or more races,25 and over,In-state,Some Distance Ed,13
+2019,Male,Two or more races,25 and over,In-state,None,86
+2019,Male,Two or more races,25 and over,Out-of-state,Only Distance Ed,153
+2019,Male,Two or more races,25 and over,Out-of-state,Some Distance Ed,35
+2019,Male,Two or more races,25 and over,Out-of-state,None,121
+2019,Male,Two or more races,25 and over,Foreign,Only Distance Ed,140
+2019,Male,Two or more races,25 and over,Foreign,Some Distance Ed,81
+2019,Male,Two or more races,25 and over,Foreign,None,230
+2019,Female,White,24 and under,In-state,Only Distance Ed,123
+2019,Female,White,24 and under,In-state,Some Distance Ed,94
+2019,Female,White,24 and under,In-state,None,146
+2019,Female,White,24 and under,Out-of-state,Only Distance Ed,136
+2019,Female,White,24 and under,Out-of-state,Some Distance Ed,92
+2019,Female,White,24 and under,Out-of-state,None,138
+2019,Female,White,24 and under,Foreign,Only Distance Ed,10
+2019,Female,White,24 and under,Foreign,Some Distance Ed,162
+2019,Female,White,24 and under,Foreign,None,87
+2019,Female,White,25 and over,In-state,Only Distance Ed,25
+2019,Female,White,25 and over,In-state,Some Distance Ed,44
+2019,Female,White,25 and over,In-state,None,232
+2019,Female,White,25 and over,Out-of-state,Only Distance Ed,189
+2019,Female,White,25 and over,Out-of-state,Some Distance Ed,79
+2019,Female,White,25 and over,Out-of-state,None,236
+2019,Female,White,25 and over,Foreign,Only Distance Ed,263
+2019,Female,White,25 and over,Foreign,Some Distance Ed,147
+2019,Female,White,25 and over,Foreign,None,154
+2019,Female,Black or African American,24 and under,In-state,Only Distance Ed,164
+2019,Female,Black or African American,24 and under,In-state,Some Distance Ed,81
+2019,Female,Black or African American,24 and under,In-state,None,85
+2019,Female,Black or African American,24 and under,Out-of-state,Only Distance Ed,296
+2019,Female,Black or African American,24 and under,Out-of-state,Some Distance Ed,220
+2019,Female,Black or African American,24 and under,Out-of-state,None,237
+2019,Female,Black or African American,24 and under,Foreign,Only Distance Ed,45
+2019,Female,Black or African American,24 and under,Foreign,Some Distance Ed,47
+2019,Female,Black or African American,24 and under,Foreign,None,128
+2019,Female,Black or African American,25 and over,In-state,Only Distance Ed,251
+2019,Female,Black or African American,25 and over,In-state,Some Distance Ed,284
+2019,Female,Black or African American,25 and over,In-state,None,66
+2019,Female,Black or African American,25 and over,Out-of-state,Only Distance Ed,85
+2019,Female,Black or African American,25 and over,Out-of-state,Some Distance Ed,186
+2019,Female,Black or African American,25 and over,Out-of-state,None,139
+2019,Female,Black or African American,25 and over,Foreign,Only Distance Ed,244
+2019,Female,Black or African American,25 and over,Foreign,Some Distance Ed,36
+2019,Female,Black or African American,25 and over,Foreign,None,121
+2019,Female,Hispanic,24 and under,In-state,Only Distance Ed,215
+2019,Female,Hispanic,24 and under,In-state,Some Distance Ed,246
+2019,Female,Hispanic,24 and under,In-state,None,46
+2019,Female,Hispanic,24 and under,Out-of-state,Only Distance Ed,18
+2019,Female,Hispanic,24 and under,Out-of-state,Some Distance Ed,112
+2019,Female,Hispanic,24 and under,Out-of-state,None,39
+2019,Female,Hispanic,24 and under,Foreign,Only Distance Ed,220
+2019,Female,Hispanic,24 and under,Foreign,Some Distance Ed,135
+2019,Female,Hispanic,24 and under,Foreign,None,55
+2019,Female,Hispanic,25 and over,In-state,Only Distance Ed,74
+2019,Female,Hispanic,25 and over,In-state,Some Distance Ed,208
+2019,Female,Hispanic,25 and over,In-state,None,287
+2019,Female,Hispanic,25 and over,Out-of-state,Only Distance Ed,53
+2019,Female,Hispanic,25 and over,Out-of-state,Some Distance Ed,265
+2019,Female,Hispanic,25 and over,Out-of-state,None,128
+2019,Female,Hispanic,25 and over,Foreign,Only Distance Ed,112
+2019,Female,Hispanic,25 and over,Foreign,Some Distance Ed,33
+2019,Female,Hispanic,25 and over,Foreign,None,176
+2019,Female,Asian,24 and under,In-state,Only Distance Ed,222
+2019,Female,Asian,24 and under,In-state,Some Distance Ed,208
+2019,Female,Asian,24 and under,In-state,None,276
+2019,Female,Asian,24 and under,Out-of-state,Only Distance Ed,183
+2019,Female,Asian,24 and under,Out-of-state,Some Distance Ed,207
+2019,Female,Asian,24 and under,Out-of-state,None,10
+2019,Female,Asian,24 and under,Foreign,Only Distance Ed,121
+2019,Female,Asian,24 and under,Foreign,Some Distance Ed,243
+2019,Female,Asian,24 and under,Foreign,None,31
+2019,Female,Asian,25 and over,In-state,Only Distance Ed,271
+2019,Female,Asian,25 and over,In-state,Some Distance Ed,250
+2019,Female,Asian,25 and over,In-state,None,89
+2019,Female,Asian,25 and over,Out-of-state,Only Distance Ed,291
+2019,Female,Asian,25 and over,Out-of-state,Some Distance Ed,11
+2019,Female,Asian,25 and over,Out-of-state,None,77
+2019,Female,Asian,25 and over,Foreign,Only Distance Ed,227
+2019,Female,Asian,25 and over,Foreign,Some Distance Ed,240
+2019,Female,Asian,25 and over,Foreign,None,184
+2019,Female,Two or more races,24 and under,In-state,Only Distance Ed,72
+2019,Female,Two or more races,24 and under,In-state,Some Distance Ed,134
+2019,Female,Two or more races,24 and under,In-state,None,73
+2019,Female,Two or more races,24 and under,Out-of-state,Only Distance Ed,286
+2019,Female,Two or more races,24 and under,Out-of-state,Some Distance Ed,139
+2019,Female,Two or more races,24 and under,Out-of-state,None,115
+2019,Female,Two or more races,24 and under,Foreign,Only Distance Ed,186
+2019,Female,Two or more races,24 and under,Foreign,Some Distance Ed,285
+2019,Female,Two or more races,24 and under,Foreign,None,132
+2019,Female,Two or more races,25 and over,In-state,Only Distance Ed,205
+2019,Female,Two or more races,25 and over,In-state,Some Distance Ed,60
+2019,Female,Two or more races,25 and over,In-state,None,219
+2019,Female,Two or more races,25 and over,Out-of-state,Only Distance Ed,153
+2019,Female,Two or more races,25 and over,Out-of-state,Some Distance Ed,161
+2019,Female,Two or more races,25 and over,Out-of-state,None,300
+2019,Female,Two or more races,25 and over,Foreign,Only Distance Ed,254
+2019,Female,Two or more races,25 and over,Foreign,Some Distance Ed,23
+2019,Female,Two or more races,25 and over,Foreign,None,31
+2020,Male,White,24 and under,In-state,Only Distance Ed,103
+2020,Male,White,24 and under,In-state,Some Distance Ed,156
+2020,Male,White,24 and under,In-state,None,297
+2020,Male,White,24 and under,Out-of-state,Only Distance Ed,293
+2020,Male,White,24 and under,Out-of-state,Some Distance Ed,131
+2020,Male,White,24 and under,Out-of-state,None,59
+2020,Male,White,24 and under,Foreign,Only Distance Ed,12
+2020,Male,White,24 and under,Foreign,Some Distance Ed,206
+2020,Male,White,24 and under,Foreign,None,218
+2020,Male,White,25 and over,In-state,Only Distance Ed,205
+2020,Male,White,25 and over,In-state,Some Distance Ed,140
+2020,Male,White,25 and over,In-state,None,38
+2020,Male,White,25 and over,Out-of-state,Only Distance Ed,77
+2020,Male,White,25 and over,Out-of-state,Some Distance Ed,20
+2020,Male,White,25 and over,Out-of-state,None,116
+2020,Male,White,25 and over,Foreign,Only Distance Ed,173
+2020,Male,White,25 and over,Foreign,Some Distance Ed,18
+2020,Male,White,25 and over,Foreign,None,280
+2020,Male,Black or African American,24 and under,In-state,Only Distance Ed,287
+2020,Male,Black or African American,24 and under,In-state,Some Distance Ed,151
+2020,Male,Black or African American,24 and under,In-state,None,255
+2020,Male,Black or African American,24 and under,Out-of-state,Only Distance Ed,112
+2020,Male,Black or African American,24 and under,Out-of-state,Some Distance Ed,246
+2020,Male,Black or African American,24 and under,Out-of-state,None,270
+2020,Male,Black or African American,24 and under,Foreign,Only Distance Ed,288
+2020,Male,Black or African American,24 and under,Foreign,Some Distance Ed,134
+2020,Male,Black or African American,24 and under,Foreign,None,45
+2020,Male,Black or African American,25 and over,In-state,Only Distance Ed,71
+2020,Male,Black or African American,25 and over,In-state,Some Distance Ed,209
+2020,Male,Black or African American,25 and over,In-state,None,196
+2020,Male,Black or African American,25 and over,Out-of-state,Only Distance Ed,215
+2020,Male,Black or African American,25 and over,Out-of-state,Some Distance Ed,266
+2020,Male,Black or African American,25 and over,Out-of-state,None,228
+2020,Male,Black or African American,25 and over,Foreign,Only Distance Ed,54
+2020,Male,Black or African American,25 and over,Foreign,Some Distance Ed,127
+2020,Male,Black or African American,25 and over,Foreign,None,182
+2020,Male,Hispanic,24 and under,In-state,Only Distance Ed,280
+2020,Male,Hispanic,24 and under,In-state,Some Distance Ed,141
+2020,Male,Hispanic,24 and under,In-state,None,169
+2020,Male,Hispanic,24 and under,Out-of-state,Only Distance Ed,26
+2020,Male,Hispanic,24 and under,Out-of-state,Some Distance Ed,131
+2020,Male,Hispanic,24 and under,Out-of-state,None,291
+2020,Male,Hispanic,24 and under,Foreign,Only Distance Ed,138
+2020,Male,Hispanic,24 and under,Foreign,Some Distance Ed,143
+2020,Male,Hispanic,24 and under,Foreign,None,180
+2020,Male,Hispanic,25 and over,In-state,Only Distance Ed,146
+2020,Male,Hispanic,25 and over,In-state,Some Distance Ed,83
+2020,Male,Hispanic,25 and over,In-state,None,217
+2020,Male,Hispanic,25 and over,Out-of-state,Only Distance Ed,300
+2020,Male,Hispanic,25 and over,Out-of-state,Some Distance Ed,220
+2020,Male,Hispanic,25 and over,Out-of-state,None,259
+2020,Male,Hispanic,25 and over,Foreign,Only Distance Ed,206
+2020,Male,Hispanic,25 and over,Foreign,Some Distance Ed,297
+2020,Male,Hispanic,25 and over,Foreign,None,287
+2020,Male,Asian,24 and under,In-state,Only Distance Ed,64
+2020,Male,Asian,24 and under,In-state,Some Distance Ed,35
+2020,Male,Asian,24 and under,In-state,None,58
+2020,Male,Asian,24 and under,Out-of-state,Only Distance Ed,110
+2020,Male,Asian,24 and under,Out-of-state,Some Distance Ed,57
+2020,Male,Asian,24 and under,Out-of-state,None,225
+2020,Male,Asian,24 and under,Foreign,Only Distance Ed,105
+2020,Male,Asian,24 and under,Foreign,Some Distance Ed,76
+2020,Male,Asian,24 and under,Foreign,None,69
+2020,Male,Asian,25 and over,In-state,Only Distance Ed,19
+2020,Male,Asian,25 and over,In-state,Some Distance Ed,191
+2020,Male,Asian,25 and over,In-state,None,116
+2020,Male,Asian,25 and over,Out-of-state,Only Distance Ed,122
+2020,Male,Asian,25 and over,Out-of-state,Some Distance Ed,120
+2020,Male,Asian,25 and over,Out-of-state,None,258
+2020,Male,Asian,25 and over,Foreign,Only Distance Ed,220
+2020,Male,Asian,25 and over,Foreign,Some Distance Ed,245
+2020,Male,Asian,25 and over,Foreign,None,21
+2020,Male,Two or more races,24 and under,In-state,Only Distance Ed,264
+2020,Male,Two or more races,24 and under,In-state,Some Distance Ed,140
+2020,Male,Two or more races,24 and under,In-state,None,168
+2020,Male,Two or more races,24 and under,Out-of-state,Only Distance Ed,86
+2020,Male,Two or more races,24 and under,Out-of-state,Some Distance Ed,79
+2020,Male,Two or more races,24 and under,Out-of-state,None,180
+2020,Male,Two or more races,24 and under,Foreign,Only Distance Ed,52
+2020,Male,Two or more races,24 and under,Foreign,Some Distance Ed,11
+2020,Male,Two or more races,24 and under,Foreign,None,74
+2020,Male,Two or more races,25 and over,In-state,Only Distance Ed,68
+2020,Male,Two or more races,25 and over,In-state,Some Distance Ed,151
+2020,Male,Two or more races,25 and over,In-state,None,179
+2020,Male,Two or more races,25 and over,Out-of-state,Only Distance Ed,132
+2020,Male,Two or more races,25 and over,Out-of-state,Some Distance Ed,67
+2020,Male,Two or more races,25 and over,Out-of-state,None,28
+2020,Male,Two or more races,25 and over,Foreign,Only Distance Ed,227
+2020,Male,Two or more races,25 and over,Foreign,Some Distance Ed,227
+2020,Male,Two or more races,25 and over,Foreign,None,55
+2020,Female,White,24 and under,In-state,Only Distance Ed,300
+2020,Female,White,24 and under,In-state,Some Distance Ed,299
+2020,Female,White,24 and under,In-state,None,247
+2020,Female,White,24 and under,Out-of-state,Only Distance Ed,66
+2020,Female,White,24 and under,Out-of-state,Some Distance Ed,272
+2020,Female,White,24 and under,Out-of-state,None,199
+2020,Female,White,24 and under,Foreign,Only Distance Ed,22
+2020,Female,White,24 and under,Foreign,Some Distance Ed,145
+2020,Female,White,24 and under,Foreign,None,68
+2020,Female,White,25 and over,In-state,Only Distance Ed,122
+2020,Female,White,25 and over,In-state,Some Distance Ed,200
+2020,Female,White,25 and over,In-state,None,14
+2020,Female,White,25 and over,Out-of-state,Only Distance Ed,280
+2020,Female,White,25 and over,Out-of-state,Some Distance Ed,176
+2020,Female,White,25 and over,Out-of-state,None,139
+2020,Female,White,25 and over,Foreign,Only Distance Ed,89
+2020,Female,White,25 and over,Foreign,Some Distance Ed,79
+2020,Female,White,25 and over,Foreign,None,262
+2020,Female,Black or African American,24 and under,In-state,Only Distance Ed,259
+2020,Female,Black or African American,24 and under,In-state,Some Distance Ed,206
+2020,Female,Black or African American,24 and under,In-state,None,134
+2020,Female,Black or African American,24 and under,Out-of-state,Only Distance Ed,13
+2020,Female,Black or African American,24 and under,Out-of-state,Some Distance Ed,245
+2020,Female,Black or African American,24 and under,Out-of-state,None,203
+2020,Female,Black or African American,24 and under,Foreign,Only Distance Ed,292
+2020,Female,Black or African American,24 and under,Foreign,Some Distance Ed,249
+2020,Female,Black or African American,24 and under,Foreign,None,238
+2020,Female,Black or African American,25 and over,In-state,Only Distance Ed,261
+2020,Female,Black or African American,25 and over,In-state,Some Distance Ed,72
+2020,Female,Black or African American,25 and over,In-state,None,212
+2020,Female,Black or African American,25 and over,Out-of-state,Only Distance Ed,146
+2020,Female,Black or African American,25 and over,Out-of-state,Some Distance Ed,263
+2020,Female,Black or African American,25 and over,Out-of-state,None,40
+2020,Female,Black or African American,25 and over,Foreign,Only Distance Ed,163
+2020,Female,Black or African American,25 and over,Foreign,Some Distance Ed,164
+2020,Female,Black or African American,25 and over,Foreign,None,63
+2020,Female,Hispanic,24 and under,In-state,Only Distance Ed,201
+2020,Female,Hispanic,24 and under,In-state,Some Distance Ed,292
+2020,Female,Hispanic,24 and under,In-state,None,33
+2020,Female,Hispanic,24 and under,Out-of-state,Only Distance Ed,292
+2020,Female,Hispanic,24 and under,Out-of-state,Some Distance Ed,244
+2020,Female,Hispanic,24 and under,Out-of-state,None,218
+2020,Female,Hispanic,24 and under,Foreign,Only Distance Ed,179
+2020,Female,Hispanic,24 and under,Foreign,Some Distance Ed,291
+2020,Female,Hispanic,24 and under,Foreign,None,286
+2020,Female,Hispanic,25 and over,In-state,Only Distance Ed,251
+2020,Female,Hispanic,25 and over,In-state,Some Distance Ed,133
+2020,Female,Hispanic,25 and over,In-state,None,265
+2020,Female,Hispanic,25 and over,Out-of-state,Only Distance Ed,67
+2020,Female,Hispanic,25 and over,Out-of-state,Some Distance Ed,163
+2020,Female,Hispanic,25 and over,Out-of-state,None,280
+2020,Female,Hispanic,25 and over,Foreign,Only Distance Ed,148
+2020,Female,Hispanic,25 and over,Foreign,Some Distance Ed,16
+2020,Female,Hispanic,25 and over,Foreign,None,14
+2020,Female,Asian,24 and under,In-state,Only Distance Ed,121
+2020,Female,Asian,24 and under,In-state,Some Distance Ed,245
+2020,Female,Asian,24 and under,In-state,None,129
+2020,Female,Asian,24 and under,Out-of-state,Only Distance Ed,14
+2020,Female,Asian,24 and under,Out-of-state,Some Distance Ed,59
+2020,Female,Asian,24 and under,Out-of-state,None,81
+2020,Female,Asian,24 and under,Foreign,Only Distance Ed,199
+2020,Female,Asian,24 and under,Foreign,Some Distance Ed,55
+2020,Female,Asian,24 and under,Foreign,None,166
+2020,Female,Asian,25 and over,In-state,Only Distance Ed,296
+2020,Female,Asian,25 and over,In-state,Some Distance Ed,262
+2020,Female,Asian,25 and over,In-state,None,281
+2020,Female,Asian,25 and over,Out-of-state,Only Distance Ed,277
+2020,Female,Asian,25 and over,Out-of-state,Some Distance Ed,288
+2020,Female,Asian,25 and over,Out-of-state,None,270
+2020,Female,Asian,25 and over,Foreign,Only Distance Ed,259
+2020,Female,Asian,25 and over,Foreign,Some Distance Ed,172
+2020,Female,Asian,25 and over,Foreign,None,271
+2020,Female,Two or more races,24 and under,In-state,Only Distance Ed,104
+2020,Female,Two or more races,24 and under,In-state,Some Distance Ed,84
+2020,Female,Two or more races,24 and under,In-state,None,17
+2020,Female,Two or more races,24 and under,Out-of-state,Only Distance Ed,194
+2020,Female,Two or more races,24 and under,Out-of-state,Some Distance Ed,53
+2020,Female,Two or more races,24 and under,Out-of-state,None,127
+2020,Female,Two or more races,24 and under,Foreign,Only Distance Ed,76
+2020,Female,Two or more races,24 and under,Foreign,Some Distance Ed,194
+2020,Female,Two or more races,24 and under,Foreign,None,290
+2020,Female,Two or more races,25 and over,In-state,Only Distance Ed,228
+2020,Female,Two or more races,25 and over,In-state,Some Distance Ed,71
+2020,Female,Two or more races,25 and over,In-state,None,109
+2020,Female,Two or more races,25 and over,Out-of-state,Only Distance Ed,169
+2020,Female,Two or more races,25 and over,Out-of-state,Some Distance Ed,45
+2020,Female,Two or more races,25 and over,Out-of-state,None,265
+2020,Female,Two or more races,25 and over,Foreign,Only Distance Ed,273
+2020,Female,Two or more races,25 and over,Foreign,Some Distance Ed,191
+2020,Female,Two or more races,25 and over,Foreign,None,58
+2021,Male,White,24 and under,In-state,Only Distance Ed,266
+2021,Male,White,24 and under,In-state,Some Distance Ed,126
+2021,Male,White,24 and under,In-state,None,195
+2021,Male,White,24 and under,Out-of-state,Only Distance Ed,90
+2021,Male,White,24 and under,Out-of-state,Some Distance Ed,90
+2021,Male,White,24 and under,Out-of-state,None,45
+2021,Male,White,24 and under,Foreign,Only Distance Ed,33
+2021,Male,White,24 and under,Foreign,Some Distance Ed,167
+2021,Male,White,24 and under,Foreign,None,76
+2021,Male,White,25 and over,In-state,Only Distance Ed,88
+2021,Male,White,25 and over,In-state,Some Distance Ed,18
+2021,Male,White,25 and over,In-state,None,267
+2021,Male,White,25 and over,Out-of-state,Only Distance Ed,270
+2021,Male,White,25 and over,Out-of-state,Some Distance Ed,210
+2021,Male,White,25 and over,Out-of-state,None,25
+2021,Male,White,25 and over,Foreign,Only Distance Ed,223
+2021,Male,White,25 and over,Foreign,Some Distance Ed,192
+2021,Male,White,25 and over,Foreign,None,266
+2021,Male,Black or African American,24 and under,In-state,Only Distance Ed,36
+2021,Male,Black or African American,24 and under,In-state,Some Distance Ed,126
+2021,Male,Black or African American,24 and under,In-state,None,248
+2021,Male,Black or African American,24 and under,Out-of-state,Only Distance Ed,290
+2021,Male,Black or African American,24 and under,Out-of-state,Some Distance Ed,54
+2021,Male,Black or African American,24 and under,Out-of-state,None,17
+2021,Male,Black or African American,24 and under,Foreign,Only Distance Ed,115
+2021,Male,Black or African American,24 and under,Foreign,Some Distance Ed,203
+2021,Male,Black or African American,24 and under,Foreign,None,14
+2021,Male,Black or African American,25 and over,In-state,Only Distance Ed,79
+2021,Male,Black or African American,25 and over,In-state,Some Distance Ed,296
+2021,Male,Black or African American,25 and over,In-state,None,87
+2021,Male,Black or African American,25 and over,Out-of-state,Only Distance Ed,119
+2021,Male,Black or African American,25 and over,Out-of-state,Some Distance Ed,283
+2021,Male,Black or African American,25 and over,Out-of-state,None,178
+2021,Male,Black or African American,25 and over,Foreign,Only Distance Ed,112
+2021,Male,Black or African American,25 and over,Foreign,Some Distance Ed,64
+2021,Male,Black or African American,25 and over,Foreign,None,218
+2021,Male,Hispanic,24 and under,In-state,Only Distance Ed,276
+2021,Male,Hispanic,24 and under,In-state,Some Distance Ed,231
+2021,Male,Hispanic,24 and under,In-state,None,14
+2021,Male,Hispanic,24 and under,Out-of-state,Only Distance Ed,235
+2021,Male,Hispanic,24 and under,Out-of-state,Some Distance Ed,122
+2021,Male,Hispanic,24 and under,Out-of-state,None,206
+2021,Male,Hispanic,24 and under,Foreign,Only Distance Ed,102
+2021,Male,Hispanic,24 and under,Foreign,Some Distance Ed,58
+2021,Male,Hispanic,24 and under,Foreign,None,26
+2021,Male,Hispanic,25 and over,In-state,Only Distance Ed,75
+2021,Male,Hispanic,25 and over,In-state,Some Distance Ed,245
+2021,Male,Hispanic,25 and over,In-state,None,201
+2021,Male,Hispanic,25 and over,Out-of-state,Only Distance Ed,218
+2021,Male,Hispanic,25 and over,Out-of-state,Some Distance Ed,213
+2021,Male,Hispanic,25 and over,Out-of-state,None,123
+2021,Male,Hispanic,25 and over,Foreign,Only Distance Ed,147
+2021,Male,Hispanic,25 and over,Foreign,Some Distance Ed,49
+2021,Male,Hispanic,25 and over,Foreign,None,128
+2021,Male,Asian,24 and under,In-state,Only Distance Ed,291
+2021,Male,Asian,24 and under,In-state,Some Distance Ed,294
+2021,Male,Asian,24 and under,In-state,None,220
+2021,Male,Asian,24 and under,Out-of-state,Only Distance Ed,72
+2021,Male,Asian,24 and under,Out-of-state,Some Distance Ed,116
+2021,Male,Asian,24 and under,Out-of-state,None,163
+2021,Male,Asian,24 and under,Foreign,Only Distance Ed,149
+2021,Male,Asian,24 and under,Foreign,Some Distance Ed,197
+2021,Male,Asian,24 and under,Foreign,None,114
+2021,Male,Asian,25 and over,In-state,Only Distance Ed,27
+2021,Male,Asian,25 and over,In-state,Some Distance Ed,79
+2021,Male,Asian,25 and over,In-state,None,239
+2021,Male,Asian,25 and over,Out-of-state,Only Distance Ed,257
+2021,Male,Asian,25 and over,Out-of-state,Some Distance Ed,132
+2021,Male,Asian,25 and over,Out-of-state,None,209
+2021,Male,Asian,25 and over,Foreign,Only Distance Ed,293
+2021,Male,Asian,25 and over,Foreign,Some Distance Ed,98
+2021,Male,Asian,25 and over,Foreign,None,29
+2021,Male,Two or more races,24 and under,In-state,Only Distance Ed,277
+2021,Male,Two or more races,24 and under,In-state,Some Distance Ed,85
+2021,Male,Two or more races,24 and under,In-state,None,259
+2021,Male,Two or more races,24 and under,Out-of-state,Only Distance Ed,57
+2021,Male,Two or more races,24 and under,Out-of-state,Some Distance Ed,186
+2021,Male,Two or more races,24 and under,Out-of-state,None,69
+2021,Male,Two or more races,24 and under,Foreign,Only Distance Ed,267
+2021,Male,Two or more races,24 and under,Foreign,Some Distance Ed,145
+2021,Male,Two or more races,24 and under,Foreign,None,203
+2021,Male,Two or more races,25 and over,In-state,Only Distance Ed,209
+2021,Male,Two or more races,25 and over,In-state,Some Distance Ed,11
+2021,Male,Two or more races,25 and over,In-state,None,143
+2021,Male,Two or more races,25 and over,Out-of-state,Only Distance Ed,257
+2021,Male,Two or more races,25 and over,Out-of-state,Some Distance Ed,268
+2021,Male,Two or more races,25 and over,Out-of-state,None,193
+2021,Male,Two or more races,25 and over,Foreign,Only Distance Ed,277
+2021,Male,Two or more races,25 and over,Foreign,Some Distance Ed,283
+2021,Male,Two or more races,25 and over,Foreign,None,80
+2021,Female,White,24 and under,In-state,Only Distance Ed,249
+2021,Female,White,24 and under,In-state,Some Distance Ed,26
+2021,Female,White,24 and under,In-state,None,145
+2021,Female,White,24 and under,Out-of-state,Only Distance Ed,291
+2021,Female,White,24 and under,Out-of-state,Some Distance Ed,72
+2021,Female,White,24 and under,Out-of-state,None,187
+2021,Female,White,24 and under,Foreign,Only Distance Ed,297
+2021,Female,White,24 and under,Foreign,Some Distance Ed,11
+2021,Female,White,24 and under,Foreign,None,12
+2021,Female,White,25 and over,In-state,Only Distance Ed,127
+2021,Female,White,25 and over,In-state,Some Distance Ed,187
+2021,Female,White,25 and over,In-state,None,265
+2021,Female,White,25 and over,Out-of-state,Only Distance Ed,66
+2021,Female,White,25 and over,Out-of-state,Some Distance Ed,233
+2021,Female,White,25 and over,Out-of-state,None,38
+2021,Female,White,25 and over,Foreign,Only Distance Ed,225
+2021,Female,White,25 and over,Foreign,Some Distance Ed,232
+2021,Female,White,25 and over,Foreign,None,211
+2021,Female,Black or African American,24 and under,In-state,Only Distance Ed,135
+2021,Female,Black or African American,24 and under,In-state,Some Distance Ed,218
+2021,Female,Black or African American,24 and under,In-state,None,261
+2021,Female,Black or African American,24 and under,Out-of-state,Only Distance Ed,53
+2021,Female,Black or African American,24 and under,Out-of-state,Some Distance Ed,118
+2021,Female,Black or African American,24 and under,Out-of-state,None,11
+2021,Female,Black or African American,24 and under,Foreign,Only Distance Ed,201
+2021,Female,Black or African American,24 and under,Foreign,Some Distance Ed,199
+2021,Female,Black or African American,24 and under,Foreign,None,59
+2021,Female,Black or African American,25 and over,In-state,Only Distance Ed,191
+2021,Female,Black or African American,25 and over,In-state,Some Distance Ed,74
+2021,Female,Black or African American,25 and over,In-state,None,71
+2021,Female,Black or African American,25 and over,Out-of-state,Only Distance Ed,184
+2021,Female,Black or African American,25 and over,Out-of-state,Some Distance Ed,205
+2021,Female,Black or African American,25 and over,Out-of-state,None,39
+2021,Female,Black or African American,25 and over,Foreign,Only Distance Ed,111
+2021,Female,Black or African American,25 and over,Foreign,Some Distance Ed,153
+2021,Female,Black or African American,25 and over,Foreign,None,147
+2021,Female,Hispanic,24 and under,In-state,Only Distance Ed,130
+2021,Female,Hispanic,24 and under,In-state,Some Distance Ed,64
+2021,Female,Hispanic,24 and under,In-state,None,94
+2021,Female,Hispanic,24 and under,Out-of-state,Only Distance Ed,229
+2021,Female,Hispanic,24 and under,Out-of-state,Some Distance Ed,68
+2021,Female,Hispanic,24 and under,Out-of-state,None,90
+2021,Female,Hispanic,24 and under,Foreign,Only Distance Ed,18
+2021,Female,Hispanic,24 and under,Foreign,Some Distance Ed,46
+2021,Female,Hispanic,24 and under,Foreign,None,284
+2021,Female,Hispanic,25 and over,In-state,Only Distance Ed,81
+2021,Female,Hispanic,25 and over,In-state,Some Distance Ed,214
+2021,Female,Hispanic,25 and over,In-state,None,194
+2021,Female,Hispanic,25 and over,Out-of-state,Only Distance Ed,47
+2021,Female,Hispanic,25 and over,Out-of-state,Some Distance Ed,224
+2021,Female,Hispanic,25 and over,Out-of-state,None,46
+2021,Female,Hispanic,25 and over,Foreign,Only Distance Ed,48
+2021,Female,Hispanic,25 and over,Foreign,Some Distance Ed,180
+2021,Female,Hispanic,25 and over,Foreign,None,252
+2021,Female,Asian,24 and under,In-state,Only Distance Ed,130
+2021,Female,Asian,24 and under,In-state,Some Distance Ed,240
+2021,Female,Asian,24 and under,In-state,None,274
+2021,Female,Asian,24 and under,Out-of-state,Only Distance Ed,163
+2021,Female,Asian,24 and under,Out-of-state,Some Distance Ed,185
+2021,Female,Asian,24 and under,Out-of-state,None,143
+2021,Female,Asian,24 and under,Foreign,Only Distance Ed,27
+2021,Female,Asian,24 and under,Foreign,Some Distance Ed,24
+2021,Female,Asian,24 and under,Foreign,None,272
+2021,Female,Asian,25 and over,In-state,Only Distance Ed,207
+2021,Female,Asian,25 and over,In-state,Some Distance Ed,215
+2021,Female,Asian,25 and over,In-state,None,283
+2021,Female,Asian,25 and over,Out-of-state,Only Distance Ed,88
+2021,Female,Asian,25 and over,Out-of-state,Some Distance Ed,76
+2021,Female,Asian,25 and over,Out-of-state,None,44
+2021,Female,Asian,25 and over,Foreign,Only Distance Ed,170
+2021,Female,Asian,25 and over,Foreign,Some Distance Ed,70
+2021,Female,Asian,25 and over,Foreign,None,188
+2021,Female,Two or more races,24 and under,In-state,Only Distance Ed,279
+2021,Female,Two or more races,24 and under,In-state,Some Distance Ed,21
+2021,Female,Two or more races,24 and under,In-state,None,252
+2021,Female,Two or more races,24 and under,Out-of-state,Only Distance Ed,155
+2021,Female,Two or more races,24 and under,Out-of-state,Some Distance Ed,232
+2021,Female,Two or more races,24 and under,Out-of-state,None,277
+2021,Female,Two or more races,24 and under,Foreign,Only Distance Ed,237
+2021,Female,Two or more races,24 and under,Foreign,Some Distance Ed,271
+2021,Female,Two or more races,24 and under,Foreign,None,257
+2021,Female,Two or more races,25 and over,In-state,Only Distance Ed,190
+2021,Female,Two or more races,25 and over,In-state,Some Distance Ed,127
+2021,Female,Two or more races,25 and over,In-state,None,271
+2021,Female,Two or more races,25 and over,Out-of-state,Only Distance Ed,111
+2021,Female,Two or more races,25 and over,Out-of-state,Some Distance Ed,257
+2021,Female,Two or more races,25 and over,Out-of-state,None,44
+2021,Female,Two or more races,25 and over,Foreign,Only Distance Ed,83
+2021,Female,Two or more races,25 and over,Foreign,Some Distance Ed,197
+2021,Female,Two or more races,25 and over,Foreign,None,86
+2022,Male,White,24 and under,In-state,Only Distance Ed,156
+2022,Male,White,24 and under,In-state,Some Distance Ed,144
+2022,Male,White,24 and under,In-state,None,215
+2022,Male,White,24 and under,Out-of-state,Only Distance Ed,14
+2022,Male,White,24 and under,Out-of-state,Some Distance Ed,158
+2022,Male,White,24 and under,Out-of-state,None,187
+2022,Male,White,24 and under,Foreign,Only Distance Ed,190
+2022,Male,White,24 and under,Foreign,Some Distance Ed,133
+2022,Male,White,24 and under,Foreign,None,100
+2022,Male,White,25 and over,In-state,Only Distance Ed,230
+2022,Male,White,25 and over,In-state,Some Distance Ed,229
+2022,Male,White,25 and over,In-state,None,253
+2022,Male,White,25 and over,Out-of-state,Only Distance Ed,39
+2022,Male,White,25 and over,Out-of-state,Some Distance Ed,168
+2022,Male,White,25 and over,Out-of-state,None,130
+2022,Male,White,25 and over,Foreign,Only Distance Ed,100
+2022,Male,White,25 and over,Foreign,Some Distance Ed,153
+2022,Male,White,25 and over,Foreign,None,241
+2022,Male,Black or African American,24 and under,In-state,Only Distance Ed,85
+2022,Male,Black or African American,24 and under,In-state,Some Distance Ed,48
+2022,Male,Black or African American,24 and under,In-state,None,147
+2022,Male,Black or African American,24 and under,Out-of-state,Only Distance Ed,159
+2022,Male,Black or African American,24 and under,Out-of-state,Some Distance Ed,264
+2022,Male,Black or African American,24 and under,Out-of-state,None,161
+2022,Male,Black or African American,24 and under,Foreign,Only Distance Ed,167
+2022,Male,Black or African American,24 and under,Foreign,Some Distance Ed,118
+2022,Male,Black or African American,24 and under,Foreign,None,103
+2022,Male,Black or African American,25 and over,In-state,Only Distance Ed,297
+2022,Male,Black or African American,25 and over,In-state,Some Distance Ed,81
+2022,Male,Black or African American,25 and over,In-state,None,194
+2022,Male,Black or African American,25 and over,Out-of-state,Only Distance Ed,104
+2022,Male,Black or African American,25 and over,Out-of-state,Some Distance Ed,179
+2022,Male,Black or African American,25 and over,Out-of-state,None,147
+2022,Male,Black or African American,25 and over,Foreign,Only Distance Ed,194
+2022,Male,Black or African American,25 and over,Foreign,Some Distance Ed,144
+2022,Male,Black or African American,25 and over,Foreign,None,33
+2022,Male,Hispanic,24 and under,In-state,Only Distance Ed,72
+2022,Male,Hispanic,24 and under,In-state,Some Distance Ed,241
+2022,Male,Hispanic,24 and under,In-state,None,292
+2022,Male,Hispanic,24 and under,Out-of-state,Only Distance Ed,105
+2022,Male,Hispanic,24 and under,Out-of-state,Some Distance Ed,222
+2022,Male,Hispanic,24 and under,Out-of-state,None,198
+2022,Male,Hispanic,24 and under,Foreign,Only Distance Ed,165
+2022,Male,Hispanic,24 and under,Foreign,Some Distance Ed,97
+2022,Male,Hispanic,24 and under,Foreign,None,96
+2022,Male,Hispanic,25 and over,In-state,Only Distance Ed,185
+2022,Male,Hispanic,25 and over,In-state,Some Distance Ed,68
+2022,Male,Hispanic,25 and over,In-state,None,160
+2022,Male,Hispanic,25 and over,Out-of-state,Only Distance Ed,285
+2022,Male,Hispanic,25 and over,Out-of-state,Some Distance Ed,48
+2022,Male,Hispanic,25 and over,Out-of-state,None,169
+2022,Male,Hispanic,25 and over,Foreign,Only Distance Ed,153
+2022,Male,Hispanic,25 and over,Foreign,Some Distance Ed,14
+2022,Male,Hispanic,25 and over,Foreign,None,47
+2022,Male,Asian,24 and under,In-state,Only Distance Ed,117
+2022,Male,Asian,24 and under,In-state,Some Distance Ed,72
+2022,Male,Asian,24 and under,In-state,None,109
+2022,Male,Asian,24 and under,Out-of-state,Only Distance Ed,15
+2022,Male,Asian,24 and under,Out-of-state,Some Distance Ed,39
+2022,Male,Asian,24 and under,Out-of-state,None,252
+2022,Male,Asian,24 and under,Foreign,Only Distance Ed,242
+2022,Male,Asian,24 and under,Foreign,Some Distance Ed,220
+2022,Male,Asian,24 and under,Foreign,None,84
+2022,Male,Asian,25 and over,In-state,Only Distance Ed,245
+2022,Male,Asian,25 and over,In-state,Some Distance Ed,225
+2022,Male,Asian,25 and over,In-state,None,135
+2022,Male,Asian,25 and over,Out-of-state,Only Distance Ed,240
+2022,Male,Asian,25 and over,Out-of-state,Some Distance Ed,109
+2022,Male,Asian,25 and over,Out-of-state,None,209
+2022,Male,Asian,25 and over,Foreign,Only Distance Ed,166
+2022,Male,Asian,25 and over,Foreign,Some Distance Ed,53
+2022,Male,Asian,25 and over,Foreign,None,217
+2022,Male,Two or more races,24 and under,In-state,Only Distance Ed,280
+2022,Male,Two or more races,24 and under,In-state,Some Distance Ed,48
+2022,Male,Two or more races,24 and under,In-state,None,216
+2022,Male,Two or more races,24 and under,Out-of-state,Only Distance Ed,263
+2022,Male,Two or more races,24 and under,Out-of-state,Some Distance Ed,14
+2022,Male,Two or more races,24 and under,Out-of-state,None,73
+2022,Male,Two or more races,24 and under,Foreign,Only Distance Ed,292
+2022,Male,Two or more races,24 and under,Foreign,Some Distance Ed,89
+2022,Male,Two or more races,24 and under,Foreign,None,144
+2022,Male,Two or more races,25 and over,In-state,Only Distance Ed,70
+2022,Male,Two or more races,25 and over,In-state,Some Distance Ed,257
+2022,Male,Two or more races,25 and over,In-state,None,15
+2022,Male,Two or more races,25 and over,Out-of-state,Only Distance Ed,55
+2022,Male,Two or more races,25 and over,Out-of-state,Some Distance Ed,274
+2022,Male,Two or more races,25 and over,Out-of-state,None,147
+2022,Male,Two or more races,25 and over,Foreign,Only Distance Ed,34
+2022,Male,Two or more races,25 and over,Foreign,Some Distance Ed,156
+2022,Male,Two or more races,25 and over,Foreign,None,214
+2022,Female,White,24 and under,In-state,Only Distance Ed,166
+2022,Female,White,24 and under,In-state,Some Distance Ed,62
+2022,Female,White,24 and under,In-state,None,168
+2022,Female,White,24 and under,Out-of-state,Only Distance Ed,181
+2022,Female,White,24 and under,Out-of-state,Some Distance Ed,289
+2022,Female,White,24 and under,Out-of-state,None,219
+2022,Female,White,24 and under,Foreign,Only Distance Ed,261
+2022,Female,White,24 and under,Foreign,Some Distance Ed,36
+2022,Female,White,24 and under,Foreign,None,192
+2022,Female,White,25 and over,In-state,Only Distance Ed,268
+2022,Female,White,25 and over,In-state,Some Distance Ed,80
+2022,Female,White,25 and over,In-state,None,91
+2022,Female,White,25 and over,Out-of-state,Only Distance Ed,86
+2022,Female,White,25 and over,Out-of-state,Some Distance Ed,63
+2022,Female,White,25 and over,Out-of-state,None,264
+2022,Female,White,25 and over,Foreign,Only Distance Ed,10
+2022,Female,White,25 and over,Foreign,Some Distance Ed,170
+2022,Female,White,25 and over,Foreign,None,272
+2022,Female,Black or African American,24 and under,In-state,Only Distance Ed,109
+2022,Female,Black or African American,24 and under,In-state,Some Distance Ed,275
+2022,Female,Black or African American,24 and under,In-state,None,271
+2022,Female,Black or African American,24 and under,Out-of-state,Only Distance Ed,181
+2022,Female,Black or African American,24 and under,Out-of-state,Some Distance Ed,279
+2022,Female,Black or African American,24 and under,Out-of-state,None,77
+2022,Female,Black or African American,24 and under,Foreign,Only Distance Ed,172
+2022,Female,Black or African American,24 and under,Foreign,Some Distance Ed,61
+2022,Female,Black or African American,24 and under,Foreign,None,257
+2022,Female,Black or African American,25 and over,In-state,Only Distance Ed,11
+2022,Female,Black or African American,25 and over,In-state,Some Distance Ed,11
+2022,Female,Black or African American,25 and over,In-state,None,45
+2022,Female,Black or African American,25 and over,Out-of-state,Only Distance Ed,105
+2022,Female,Black or African American,25 and over,Out-of-state,Some Distance Ed,36
+2022,Female,Black or African American,25 and over,Out-of-state,None,216
+2022,Female,Black or African American,25 and over,Foreign,Only Distance Ed,59
+2022,Female,Black or African American,25 and over,Foreign,Some Distance Ed,242
+2022,Female,Black or African American,25 and over,Foreign,None,34
+2022,Female,Hispanic,24 and under,In-state,Only Distance Ed,257
+2022,Female,Hispanic,24 and under,In-state,Some Distance Ed,282
+2022,Female,Hispanic,24 and under,In-state,None,112
+2022,Female,Hispanic,24 and under,Out-of-state,Only Distance Ed,190
+2022,Female,Hispanic,24 and under,Out-of-state,Some Distance Ed,116
+2022,Female,Hispanic,24 and under,Out-of-state,None,147
+2022,Female,Hispanic,24 and under,Foreign,Only Distance Ed,45
+2022,Female,Hispanic,24 and under,Foreign,Some Distance Ed,261
+2022,Female,Hispanic,24 and under,Foreign,None,294
+2022,Female,Hispanic,25 and over,In-state,Only Distance Ed,228
+2022,Female,Hispanic,25 and over,In-state,Some Distance Ed,198
+2022,Female,Hispanic,25 and over,In-state,None,107
+2022,Female,Hispanic,25 and over,Out-of-state,Only Distance Ed,181
+2022,Female,Hispanic,25 and over,Out-of-state,Some Distance Ed,141
+2022,Female,Hispanic,25 and over,Out-of-state,None,263
+2022,Female,Hispanic,25 and over,Foreign,Only Distance Ed,131
+2022,Female,Hispanic,25 and over,Foreign,Some Distance Ed,150
+2022,Female,Hispanic,25 and over,Foreign,None,170
+2022,Female,Asian,24 and under,In-state,Only Distance Ed,83
+2022,Female,Asian,24 and under,In-state,Some Distance Ed,262
+2022,Female,Asian,24 and under,In-state,None,28
+2022,Female,Asian,24 and under,Out-of-state,Only Distance Ed,215
+2022,Female,Asian,24 and under,Out-of-state,Some Distance Ed,20
+2022,Female,Asian,24 and under,Out-of-state,None,12
+2022,Female,Asian,24 and under,Foreign,Only Distance Ed,196
+2022,Female,Asian,24 and under,Foreign,Some Distance Ed,107
+2022,Female,Asian,24 and under,Foreign,None,65
+2022,Female,Asian,25 and over,In-state,Only Distance Ed,79
+2022,Female,Asian,25 and over,In-state,Some Distance Ed,78
+2022,Female,Asian,25 and over,In-state,None,231
+2022,Female,Asian,25 and over,Out-of-state,Only Distance Ed,141
+2022,Female,Asian,25 and over,Out-of-state,Some Distance Ed,74
+2022,Female,Asian,25 and over,Out-of-state,None,192
+2022,Female,Asian,25 and over,Foreign,Only Distance Ed,295
+2022,Female,Asian,25 and over,Foreign,Some Distance Ed,73
+2022,Female,Asian,25 and over,Foreign,None,217
+2022,Female,Two or more races,24 and under,In-state,Only Distance Ed,63
+2022,Female,Two or more races,24 and under,In-state,Some Distance Ed,102
+2022,Female,Two or more races,24 and under,In-state,None,246
+2022,Female,Two or more races,24 and under,Out-of-state,Only Distance Ed,62
+2022,Female,Two or more races,24 and under,Out-of-state,Some Distance Ed,121
+2022,Female,Two or more races,24 and under,Out-of-state,None,204
+2022,Female,Two or more races,24 and under,Foreign,Only Distance Ed,195
+2022,Female,Two or more races,24 and under,Foreign,Some Distance Ed,228
+2022,Female,Two or more races,24 and under,Foreign,None,91
+2022,Female,Two or more races,25 and over,In-state,Only Distance Ed,70
+2022,Female,Two or more races,25 and over,In-state,Some Distance Ed,184
+2022,Female,Two or more races,25 and over,In-state,None,196
+2022,Female,Two or more races,25 and over,Out-of-state,Only Distance Ed,105
+2022,Female,Two or more races,25 and over,Out-of-state,Some Distance Ed,10
+2022,Female,Two or more races,25 and over,Out-of-state,None,218
+2022,Female,Two or more races,25 and over,Foreign,Only Distance Ed,177
+2022,Female,Two or more races,25 and over,Foreign,Some Distance Ed,156
+2022,Female,Two or more races,25 and over,Foreign,None,259
+2023,Male,White,24 and under,In-state,Only Distance Ed,145
+2023,Male,White,24 and under,In-state,Some Distance Ed,174
+2023,Male,White,24 and under,In-state,None,267
+2023,Male,White,24 and under,Out-of-state,Only Distance Ed,14
+2023,Male,White,24 and under,Out-of-state,Some Distance Ed,67
+2023,Male,White,24 and under,Out-of-state,None,65
+2023,Male,White,24 and under,Foreign,Only Distance Ed,300
+2023,Male,White,24 and under,Foreign,Some Distance Ed,12
+2023,Male,White,24 and under,Foreign,None,50
+2023,Male,White,25 and over,In-state,Only Distance Ed,62
+2023,Male,White,25 and over,In-state,Some Distance Ed,60
+2023,Male,White,25 and over,In-state,None,154
+2023,Male,White,25 and over,Out-of-state,Only Distance Ed,10
+2023,Male,White,25 and over,Out-of-state,Some Distance Ed,31
+2023,Male,White,25 and over,Out-of-state,None,243
+2023,Male,White,25 and over,Foreign,Only Distance Ed,275
+2023,Male,White,25 and over,Foreign,Some Distance Ed,294
+2023,Male,White,25 and over,Foreign,None,257
+2023,Male,Black or African American,24 and under,In-state,Only Distance Ed,104
+2023,Male,Black or African American,24 and under,In-state,Some Distance Ed,12
+2023,Male,Black or African American,24 and under,In-state,None,142
+2023,Male,Black or African American,24 and under,Out-of-state,Only Distance Ed,206
+2023,Male,Black or African American,24 and under,Out-of-state,Some Distance Ed,282
+2023,Male,Black or African American,24 and under,Out-of-state,None,179
+2023,Male,Black or African American,24 and under,Foreign,Only Distance Ed,172
+2023,Male,Black or African American,24 and under,Foreign,Some Distance Ed,203
+2023,Male,Black or African American,24 and under,Foreign,None,49
+2023,Male,Black or African American,25 and over,In-state,Only Distance Ed,84
+2023,Male,Black or African American,25 and over,In-state,Some Distance Ed,185
+2023,Male,Black or African American,25 and over,In-state,None,279
+2023,Male,Black or African American,25 and over,Out-of-state,Only Distance Ed,64
+2023,Male,Black or African American,25 and over,Out-of-state,Some Distance Ed,30
+2023,Male,Black or African American,25 and over,Out-of-state,None,38
+2023,Male,Black or African American,25 and over,Foreign,Only Distance Ed,206
+2023,Male,Black or African American,25 and over,Foreign,Some Distance Ed,251
+2023,Male,Black or African American,25 and over,Foreign,None,207
+2023,Male,Hispanic,24 and under,In-state,Only Distance Ed,142
+2023,Male,Hispanic,24 and under,In-state,Some Distance Ed,82
+2023,Male,Hispanic,24 and under,In-state,None,227
+2023,Male,Hispanic,24 and under,Out-of-state,Only Distance Ed,155
+2023,Male,Hispanic,24 and under,Out-of-state,Some Distance Ed,236
+2023,Male,Hispanic,24 and under,Out-of-state,None,244
+2023,Male,Hispanic,24 and under,Foreign,Only Distance Ed,38
+2023,Male,Hispanic,24 and under,Foreign,Some Distance Ed,219
+2023,Male,Hispanic,24 and under,Foreign,None,88
+2023,Male,Hispanic,25 and over,In-state,Only Distance Ed,88
+2023,Male,Hispanic,25 and over,In-state,Some Distance Ed,187
+2023,Male,Hispanic,25 and over,In-state,None,199
+2023,Male,Hispanic,25 and over,Out-of-state,Only Distance Ed,294
+2023,Male,Hispanic,25 and over,Out-of-state,Some Distance Ed,36
+2023,Male,Hispanic,25 and over,Out-of-state,None,300
+2023,Male,Hispanic,25 and over,Foreign,Only Distance Ed,289
+2023,Male,Hispanic,25 and over,Foreign,Some Distance Ed,190
+2023,Male,Hispanic,25 and over,Foreign,None,13
+2023,Male,Asian,24 and under,In-state,Only Distance Ed,43
+2023,Male,Asian,24 and under,In-state,Some Distance Ed,159
+2023,Male,Asian,24 and under,In-state,None,259
+2023,Male,Asian,24 and under,Out-of-state,Only Distance Ed,120
+2023,Male,Asian,24 and under,Out-of-state,Some Distance Ed,177
+2023,Male,Asian,24 and under,Out-of-state,None,37
+2023,Male,Asian,24 and under,Foreign,Only Distance Ed,95
+2023,Male,Asian,24 and under,Foreign,Some Distance Ed,121
+2023,Male,Asian,24 and under,Foreign,None,62
+2023,Male,Asian,25 and over,In-state,Only Distance Ed,33
+2023,Male,Asian,25 and over,In-state,Some Distance Ed,197
+2023,Male,Asian,25 and over,In-state,None,54
+2023,Male,Asian,25 and over,Out-of-state,Only Distance Ed,148
+2023,Male,Asian,25 and over,Out-of-state,Some Distance Ed,200
+2023,Male,Asian,25 and over,Out-of-state,None,29
+2023,Male,Asian,25 and over,Foreign,Only Distance Ed,12
+2023,Male,Asian,25 and over,Foreign,Some Distance Ed,37
+2023,Male,Asian,25 and over,Foreign,None,107
+2023,Male,Two or more races,24 and under,In-state,Only Distance Ed,241
+2023,Male,Two or more races,24 and under,In-state,Some Distance Ed,93
+2023,Male,Two or more races,24 and under,In-state,None,124
+2023,Male,Two or more races,24 and under,Out-of-state,Only Distance Ed,31
+2023,Male,Two or more races,24 and under,Out-of-state,Some Distance Ed,240
+2023,Male,Two or more races,24 and under,Out-of-state,None,251
+2023,Male,Two or more races,24 and under,Foreign,Only Distance Ed,296
+2023,Male,Two or more races,24 and under,Foreign,Some Distance Ed,29
+2023,Male,Two or more races,24 and under,Foreign,None,123
+2023,Male,Two or more races,25 and over,In-state,Only Distance Ed,155
+2023,Male,Two or more races,25 and over,In-state,Some Distance Ed,133
+2023,Male,Two or more races,25 and over,In-state,None,207
+2023,Male,Two or more races,25 and over,Out-of-state,Only Distance Ed,43
+2023,Male,Two or more races,25 and over,Out-of-state,Some Distance Ed,260
+2023,Male,Two or more races,25 and over,Out-of-state,None,113
+2023,Male,Two or more races,25 and over,Foreign,Only Distance Ed,180
+2023,Male,Two or more races,25 and over,Foreign,Some Distance Ed,218
+2023,Male,Two or more races,25 and over,Foreign,None,94
+2023,Female,White,24 and under,In-state,Only Distance Ed,94
+2023,Female,White,24 and under,In-state,Some Distance Ed,289
+2023,Female,White,24 and under,In-state,None,155
+2023,Female,White,24 and under,Out-of-state,Only Distance Ed,55
+2023,Female,White,24 and under,Out-of-state,Some Distance Ed,136
+2023,Female,White,24 and under,Out-of-state,None,238
+2023,Female,White,24 and under,Foreign,Only Distance Ed,199
+2023,Female,White,24 and under,Foreign,Some Distance Ed,108
+2023,Female,White,24 and under,Foreign,None,112
+2023,Female,White,25 and over,In-state,Only Distance Ed,267
+2023,Female,White,25 and over,In-state,Some Distance Ed,297
+2023,Female,White,25 and over,In-state,None,274
+2023,Female,White,25 and over,Out-of-state,Only Distance Ed,183
+2023,Female,White,25 and over,Out-of-state,Some Distance Ed,261
+2023,Female,White,25 and over,Out-of-state,None,296
+2023,Female,White,25 and over,Foreign,Only Distance Ed,106
+2023,Female,White,25 and over,Foreign,Some Distance Ed,151
+2023,Female,White,25 and over,Foreign,None,204
+2023,Female,Black or African American,24 and under,In-state,Only Distance Ed,274
+2023,Female,Black or African American,24 and under,In-state,Some Distance Ed,298
+2023,Female,Black or African American,24 and under,In-state,None,135
+2023,Female,Black or African American,24 and under,Out-of-state,Only Distance Ed,108
+2023,Female,Black or African American,24 and under,Out-of-state,Some Distance Ed,294
+2023,Female,Black or African American,24 and under,Out-of-state,None,124
+2023,Female,Black or African American,24 and under,Foreign,Only Distance Ed,30
+2023,Female,Black or African American,24 and under,Foreign,Some Distance Ed,63
+2023,Female,Black or African American,24 and under,Foreign,None,57
+2023,Female,Black or African American,25 and over,In-state,Only Distance Ed,117
+2023,Female,Black or African American,25 and over,In-state,Some Distance Ed,263
+2023,Female,Black or African American,25 and over,In-state,None,179
+2023,Female,Black or African American,25 and over,Out-of-state,Only Distance Ed,142
+2023,Female,Black or African American,25 and over,Out-of-state,Some Distance Ed,13
+2023,Female,Black or African American,25 and over,Out-of-state,None,125
+2023,Female,Black or African American,25 and over,Foreign,Only Distance Ed,251
+2023,Female,Black or African American,25 and over,Foreign,Some Distance Ed,37
+2023,Female,Black or African American,25 and over,Foreign,None,40
+2023,Female,Hispanic,24 and under,In-state,Only Distance Ed,126
+2023,Female,Hispanic,24 and under,In-state,Some Distance Ed,261
+2023,Female,Hispanic,24 and under,In-state,None,299
+2023,Female,Hispanic,24 and under,Out-of-state,Only Distance Ed,19
+2023,Female,Hispanic,24 and under,Out-of-state,Some Distance Ed,179
+2023,Female,Hispanic,24 and under,Out-of-state,None,186
+2023,Female,Hispanic,24 and under,Foreign,Only Distance Ed,21
+2023,Female,Hispanic,24 and under,Foreign,Some Distance Ed,263
+2023,Female,Hispanic,24 and under,Foreign,None,277
+2023,Female,Hispanic,25 and over,In-state,Only Distance Ed,300
+2023,Female,Hispanic,25 and over,In-state,Some Distance Ed,66
+2023,Female,Hispanic,25 and over,In-state,None,272
+2023,Female,Hispanic,25 and over,Out-of-state,Only Distance Ed,158
+2023,Female,Hispanic,25 and over,Out-of-state,Some Distance Ed,64
+2023,Female,Hispanic,25 and over,Out-of-state,None,65
+2023,Female,Hispanic,25 and over,Foreign,Only Distance Ed,152
+2023,Female,Hispanic,25 and over,Foreign,Some Distance Ed,226
+2023,Female,Hispanic,25 and over,Foreign,None,258
+2023,Female,Asian,24 and under,In-state,Only Distance Ed,13
+2023,Female,Asian,24 and under,In-state,Some Distance Ed,216
+2023,Female,Asian,24 and under,In-state,None,11
+2023,Female,Asian,24 and under,Out-of-state,Only Distance Ed,274
+2023,Female,Asian,24 and under,Out-of-state,Some Distance Ed,143
+2023,Female,Asian,24 and under,Out-of-state,None,159
+2023,Female,Asian,24 and under,Foreign,Only Distance Ed,199
+2023,Female,Asian,24 and under,Foreign,Some Distance Ed,294
+2023,Female,Asian,24 and under,Foreign,None,93
+2023,Female,Asian,25 and over,In-state,Only Distance Ed,156
+2023,Female,Asian,25 and over,In-state,Some Distance Ed,238
+2023,Female,Asian,25 and over,In-state,None,66
+2023,Female,Asian,25 and over,Out-of-state,Only Distance Ed,232
+2023,Female,Asian,25 and over,Out-of-state,Some Distance Ed,148
+2023,Female,Asian,25 and over,Out-of-state,None,106
+2023,Female,Asian,25 and over,Foreign,Only Distance Ed,62
+2023,Female,Asian,25 and over,Foreign,Some Distance Ed,73
+2023,Female,Asian,25 and over,Foreign,None,189
+2023,Female,Two or more races,24 and under,In-state,Only Distance Ed,141
+2023,Female,Two or more races,24 and under,In-state,Some Distance Ed,65
+2023,Female,Two or more races,24 and under,In-state,None,123
+2023,Female,Two or more races,24 and under,Out-of-state,Only Distance Ed,57
+2023,Female,Two or more races,24 and under,Out-of-state,Some Distance Ed,266
+2023,Female,Two or more races,24 and under,Out-of-state,None,23
+2023,Female,Two or more races,24 and under,Foreign,Only Distance Ed,189
+2023,Female,Two or more races,24 and under,Foreign,Some Distance Ed,226
+2023,Female,Two or more races,24 and under,Foreign,None,75
+2023,Female,Two or more races,25 and over,In-state,Only Distance Ed,58
+2023,Female,Two or more races,25 and over,In-state,Some Distance Ed,125
+2023,Female,Two or more races,25 and over,In-state,None,184
+2023,Female,Two or more races,25 and over,Out-of-state,Only Distance Ed,46
+2023,Female,Two or more races,25 and over,Out-of-state,Some Distance Ed,78
+2023,Female,Two or more races,25 and over,Out-of-state,None,254
+2023,Female,Two or more races,25 and over,Foreign,Only Distance Ed,143
+2023,Female,Two or more races,25 and over,Foreign,Some Distance Ed,237
+2023,Female,Two or more races,25 and over,Foreign,None,173

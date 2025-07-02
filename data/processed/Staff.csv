@@ -1,0 +1,151 @@
+Year,Department,Role,Gender,Staff_Count
+2019,Admissions,Faculty,Male,24
+2019,Admissions,Faculty,Female,42
+2019,Admissions,Admin,Male,5
+2019,Admissions,Admin,Female,23
+2019,Admissions,Support,Male,14
+2019,Admissions,Support,Female,32
+2019,IT Services,Faculty,Male,36
+2019,IT Services,Faculty,Female,19
+2019,IT Services,Admin,Male,29
+2019,IT Services,Admin,Female,26
+2019,IT Services,Support,Male,43
+2019,IT Services,Support,Female,41
+2019,Faculty - Science,Faculty,Male,11
+2019,Faculty - Science,Faculty,Female,21
+2019,Faculty - Science,Admin,Male,24
+2019,Faculty - Science,Admin,Female,19
+2019,Faculty - Science,Support,Male,6
+2019,Faculty - Science,Support,Female,25
+2019,Faculty - Arts,Faculty,Male,12
+2019,Faculty - Arts,Faculty,Female,49
+2019,Faculty - Arts,Admin,Male,36
+2019,Faculty - Arts,Admin,Female,15
+2019,Faculty - Arts,Support,Male,36
+2019,Faculty - Arts,Support,Female,42
+2019,Facilities,Faculty,Male,46
+2019,Facilities,Faculty,Female,43
+2019,Facilities,Admin,Male,22
+2019,Facilities,Admin,Female,7
+2019,Facilities,Support,Male,42
+2019,Facilities,Support,Female,34
+2020,Admissions,Faculty,Male,38
+2020,Admissions,Faculty,Female,32
+2020,Admissions,Admin,Male,24
+2020,Admissions,Admin,Female,46
+2020,Admissions,Support,Male,26
+2020,Admissions,Support,Female,6
+2020,IT Services,Faculty,Male,48
+2020,IT Services,Faculty,Female,27
+2020,IT Services,Admin,Male,6
+2020,IT Services,Admin,Female,22
+2020,IT Services,Support,Male,11
+2020,IT Services,Support,Female,24
+2020,Faculty - Science,Faculty,Male,13
+2020,Faculty - Science,Faculty,Female,32
+2020,Faculty - Science,Admin,Male,17
+2020,Faculty - Science,Admin,Female,28
+2020,Faculty - Science,Support,Male,27
+2020,Faculty - Science,Support,Female,32
+2020,Faculty - Arts,Faculty,Male,49
+2020,Faculty - Arts,Faculty,Female,37
+2020,Faculty - Arts,Admin,Male,10
+2020,Faculty - Arts,Admin,Female,10
+2020,Faculty - Arts,Support,Male,45
+2020,Faculty - Arts,Support,Female,28
+2020,Facilities,Faculty,Male,28
+2020,Facilities,Faculty,Female,9
+2020,Facilities,Admin,Male,35
+2020,Facilities,Admin,Female,20
+2020,Facilities,Support,Male,18
+2020,Facilities,Support,Female,38
+2021,Admissions,Faculty,Male,43
+2021,Admissions,Faculty,Female,37
+2021,Admissions,Admin,Male,27
+2021,Admissions,Admin,Female,10
+2021,Admissions,Support,Male,28
+2021,Admissions,Support,Female,4
+2021,IT Services,Faculty,Male,29
+2021,IT Services,Faculty,Female,18
+2021,IT Services,Admin,Male,17
+2021,IT Services,Admin,Female,34
+2021,IT Services,Support,Male,9
+2021,IT Services,Support,Female,42
+2021,Faculty - Science,Faculty,Male,12
+2021,Faculty - Science,Faculty,Female,21
+2021,Faculty - Science,Admin,Male,8
+2021,Faculty - Science,Admin,Female,6
+2021,Faculty - Science,Support,Male,10
+2021,Faculty - Science,Support,Female,6
+2021,Faculty - Arts,Faculty,Male,3
+2021,Faculty - Arts,Faculty,Female,9
+2021,Faculty - Arts,Admin,Male,13
+2021,Faculty - Arts,Admin,Female,39
+2021,Faculty - Arts,Support,Male,26
+2021,Faculty - Arts,Support,Female,5
+2021,Facilities,Faculty,Male,44
+2021,Facilities,Faculty,Female,11
+2021,Facilities,Admin,Male,38
+2021,Facilities,Admin,Female,32
+2021,Facilities,Support,Male,24
+2021,Facilities,Support,Female,42
+2022,Admissions,Faculty,Male,16
+2022,Admissions,Faculty,Female,6
+2022,Admissions,Admin,Male,24
+2022,Admissions,Admin,Female,45
+2022,Admissions,Support,Male,50
+2022,Admissions,Support,Female,17
+2022,IT Services,Faculty,Male,9
+2022,IT Services,Faculty,Female,28
+2022,IT Services,Admin,Male,18
+2022,IT Services,Admin,Female,38
+2022,IT Services,Support,Male,38
+2022,IT Services,Support,Female,19
+2022,Faculty - Science,Faculty,Male,45
+2022,Faculty - Science,Faculty,Female,19
+2022,Faculty - Science,Admin,Male,15
+2022,Faculty - Science,Admin,Female,13
+2022,Faculty - Science,Support,Male,24
+2022,Faculty - Science,Support,Female,32
+2022,Faculty - Arts,Faculty,Male,12
+2022,Faculty - Arts,Faculty,Female,6
+2022,Faculty - Arts,Admin,Male,47
+2022,Faculty - Arts,Admin,Female,44
+2022,Faculty - Arts,Support,Male,42
+2022,Faculty - Arts,Support,Female,3
+2022,Facilities,Faculty,Male,6
+2022,Facilities,Faculty,Female,5
+2022,Facilities,Admin,Male,44
+2022,Facilities,Admin,Female,41
+2022,Facilities,Support,Male,40
+2022,Facilities,Support,Female,29
+2023,Admissions,Faculty,Male,18
+2023,Admissions,Faculty,Female,19
+2023,Admissions,Admin,Male,47
+2023,Admissions,Admin,Female,9
+2023,Admissions,Support,Male,11
+2023,Admissions,Support,Female,4
+2023,IT Services,Faculty,Male,30
+2023,IT Services,Faculty,Female,40
+2023,IT Services,Admin,Male,46
+2023,IT Services,Admin,Female,3
+2023,IT Services,Support,Male,49
+2023,IT Services,Support,Female,11
+2023,Faculty - Science,Faculty,Male,19
+2023,Faculty - Science,Faculty,Female,50
+2023,Faculty - Science,Admin,Male,10
+2023,Faculty - Science,Admin,Female,50
+2023,Faculty - Science,Support,Male,38
+2023,Faculty - Science,Support,Female,13
+2023,Faculty - Arts,Faculty,Male,15
+2023,Faculty - Arts,Faculty,Female,11
+2023,Faculty - Arts,Admin,Male,14
+2023,Faculty - Arts,Admin,Female,35
+2023,Faculty - Arts,Support,Male,24
+2023,Faculty - Arts,Support,Female,45
+2023,Facilities,Faculty,Male,10
+2023,Facilities,Faculty,Female,16
+2023,Facilities,Admin,Male,2
+2023,Facilities,Admin,Female,34
+2023,Facilities,Support,Male,22
+2023,Facilities,Support,Female,30

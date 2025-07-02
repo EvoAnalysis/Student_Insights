@@ -1,0 +1,151 @@
+Year,Value_Type,Race,Residency,Percentage
+2019,Retention Rate,White,In-state,0.631
+2019,Graduation Rate,White,In-state,0.572
+2019,Retention Rate,White,Out-of-state,0.609
+2019,Graduation Rate,White,Out-of-state,0.552
+2019,Retention Rate,White,Foreign,0.777
+2019,Graduation Rate,White,Foreign,0.709
+2019,Retention Rate,Black or African American,In-state,0.802
+2019,Graduation Rate,Black or African American,In-state,0.706
+2019,Retention Rate,Black or African American,Out-of-state,0.822
+2019,Graduation Rate,Black or African American,Out-of-state,0.77
+2019,Retention Rate,Black or African American,Foreign,0.853
+2019,Graduation Rate,Black or African American,Foreign,0.775
+2019,Retention Rate,Hispanic,In-state,0.621
+2019,Graduation Rate,Hispanic,In-state,0.537
+2019,Retention Rate,Hispanic,Out-of-state,0.736
+2019,Graduation Rate,Hispanic,Out-of-state,0.658
+2019,Retention Rate,Hispanic,Foreign,0.82
+2019,Graduation Rate,Hispanic,Foreign,0.742
+2019,Retention Rate,Asian,In-state,0.867
+2019,Graduation Rate,Asian,In-state,0.796
+2019,Retention Rate,Asian,Out-of-state,0.832
+2019,Graduation Rate,Asian,Out-of-state,0.759
+2019,Retention Rate,Asian,Foreign,0.862
+2019,Graduation Rate,Asian,Foreign,0.81
+2019,Retention Rate,Two or more races,In-state,0.894
+2019,Graduation Rate,Two or more races,In-state,0.795
+2019,Retention Rate,Two or more races,Out-of-state,0.648
+2019,Graduation Rate,Two or more races,Out-of-state,0.586
+2019,Retention Rate,Two or more races,Foreign,0.898
+2019,Graduation Rate,Two or more races,Foreign,0.806
+2020,Retention Rate,White,In-state,0.843
+2020,Graduation Rate,White,In-state,0.754
+2020,Retention Rate,White,Out-of-state,0.634
+2020,Graduation Rate,White,Out-of-state,0.548
+2020,Retention Rate,White,Foreign,0.716
+2020,Graduation Rate,White,Foreign,0.62
+2020,Retention Rate,Black or African American,In-state,0.725
+2020,Graduation Rate,Black or African American,In-state,0.629
+2020,Retention Rate,Black or African American,Out-of-state,0.635
+2020,Graduation Rate,Black or African American,Out-of-state,0.552
+2020,Retention Rate,Black or African American,Foreign,0.655
+2020,Graduation Rate,Black or African American,Foreign,0.595
+2020,Retention Rate,Hispanic,In-state,0.671
+2020,Graduation Rate,Hispanic,In-state,0.604
+2020,Retention Rate,Hispanic,Out-of-state,0.882
+2020,Graduation Rate,Hispanic,Out-of-state,0.798
+2020,Retention Rate,Hispanic,Foreign,0.75
+2020,Graduation Rate,Hispanic,Foreign,0.673
+2020,Retention Rate,Asian,In-state,0.699
+2020,Graduation Rate,Asian,In-state,0.61
+2020,Retention Rate,Asian,Out-of-state,0.909
+2020,Graduation Rate,Asian,Out-of-state,0.834
+2020,Retention Rate,Asian,Foreign,0.783
+2020,Graduation Rate,Asian,Foreign,0.72
+2020,Retention Rate,Two or more races,In-state,0.695
+2020,Graduation Rate,Two or more races,In-state,0.613
+2020,Retention Rate,Two or more races,Out-of-state,0.609
+2020,Graduation Rate,Two or more races,Out-of-state,0.525
+2020,Retention Rate,Two or more races,Foreign,0.887
+2020,Graduation Rate,Two or more races,Foreign,0.8
+2021,Retention Rate,White,In-state,0.857
+2021,Graduation Rate,White,In-state,0.789
+2021,Retention Rate,White,Out-of-state,0.902
+2021,Graduation Rate,White,Out-of-state,0.834
+2021,Retention Rate,White,Foreign,0.732
+2021,Graduation Rate,White,Foreign,0.668
+2021,Retention Rate,Black or African American,In-state,0.851
+2021,Graduation Rate,Black or African American,In-state,0.792
+2021,Retention Rate,Black or African American,Out-of-state,0.723
+2021,Graduation Rate,Black or African American,Out-of-state,0.655
+2021,Retention Rate,Black or African American,Foreign,0.603
+2021,Graduation Rate,Black or African American,Foreign,0.551
+2021,Retention Rate,Hispanic,In-state,0.842
+2021,Graduation Rate,Hispanic,In-state,0.768
+2021,Retention Rate,Hispanic,Out-of-state,0.73
+2021,Graduation Rate,Hispanic,Out-of-state,0.672
+2021,Retention Rate,Hispanic,Foreign,0.739
+2021,Graduation Rate,Hispanic,Foreign,0.667
+2021,Retention Rate,Asian,In-state,0.681
+2021,Graduation Rate,Asian,In-state,0.582
+2021,Retention Rate,Asian,Out-of-state,0.874
+2021,Graduation Rate,Asian,Out-of-state,0.808
+2021,Retention Rate,Asian,Foreign,0.744
+2021,Graduation Rate,Asian,Foreign,0.652
+2021,Retention Rate,Two or more races,In-state,0.826
+2021,Graduation Rate,Two or more races,In-state,0.769
+2021,Retention Rate,Two or more races,Out-of-state,0.866
+2021,Graduation Rate,Two or more races,Out-of-state,0.785
+2021,Retention Rate,Two or more races,Foreign,0.649
+2021,Graduation Rate,Two or more races,Foreign,0.579
+2022,Retention Rate,White,In-state,0.649
+2022,Graduation Rate,White,In-state,0.557
+2022,Retention Rate,White,Out-of-state,0.94
+2022,Graduation Rate,White,Out-of-state,0.879
+2022,Retention Rate,White,Foreign,0.739
+2022,Graduation Rate,White,Foreign,0.655
+2022,Retention Rate,Black or African American,In-state,0.893
+2022,Graduation Rate,Black or African American,In-state,0.815
+2022,Retention Rate,Black or African American,Out-of-state,0.876
+2022,Graduation Rate,Black or African American,Out-of-state,0.802
+2022,Retention Rate,Black or African American,Foreign,0.852
+2022,Graduation Rate,Black or African American,Foreign,0.764
+2022,Retention Rate,Hispanic,In-state,0.635
+2022,Graduation Rate,Hispanic,In-state,0.549
+2022,Retention Rate,Hispanic,Out-of-state,0.883
+2022,Graduation Rate,Hispanic,Out-of-state,0.814
+2022,Retention Rate,Hispanic,Foreign,0.927
+2022,Graduation Rate,Hispanic,Foreign,0.838
+2022,Retention Rate,Asian,In-state,0.924
+2022,Graduation Rate,Asian,In-state,0.859
+2022,Retention Rate,Asian,Out-of-state,0.834
+2022,Graduation Rate,Asian,Out-of-state,0.753
+2022,Retention Rate,Asian,Foreign,0.872
+2022,Graduation Rate,Asian,Foreign,0.8
+2022,Retention Rate,Two or more races,In-state,0.911
+2022,Graduation Rate,Two or more races,In-state,0.839
+2022,Retention Rate,Two or more races,Out-of-state,0.815
+2022,Graduation Rate,Two or more races,Out-of-state,0.759
+2022,Retention Rate,Two or more races,Foreign,0.762
+2022,Graduation Rate,Two or more races,Foreign,0.666
+2023,Retention Rate,White,In-state,0.806
+2023,Graduation Rate,White,In-state,0.733
+2023,Retention Rate,White,Out-of-state,0.708
+2023,Graduation Rate,White,Out-of-state,0.614
+2023,Retention Rate,White,Foreign,0.701
+2023,Graduation Rate,White,Foreign,0.618
+2023,Retention Rate,Black or African American,In-state,0.923
+2023,Graduation Rate,Black or African American,In-state,0.873
+2023,Retention Rate,Black or African American,Out-of-state,0.829
+2023,Graduation Rate,Black or African American,Out-of-state,0.757
+2023,Retention Rate,Black or African American,Foreign,0.792
+2023,Graduation Rate,Black or African American,Foreign,0.715
+2023,Retention Rate,Hispanic,In-state,0.901
+2023,Graduation Rate,Hispanic,In-state,0.841
+2023,Retention Rate,Hispanic,Out-of-state,0.911
+2023,Graduation Rate,Hispanic,Out-of-state,0.838
+2023,Retention Rate,Hispanic,Foreign,0.905
+2023,Graduation Rate,Hispanic,Foreign,0.826
+2023,Retention Rate,Asian,In-state,0.604
+2023,Graduation Rate,Asian,In-state,0.515
+2023,Retention Rate,Asian,Out-of-state,0.784
+2023,Graduation Rate,Asian,Out-of-state,0.719
+2023,Retention Rate,Asian,Foreign,0.705
+2023,Graduation Rate,Asian,Foreign,0.64
+2023,Retention Rate,Two or more races,In-state,0.62
+2023,Graduation Rate,Two or more races,In-state,0.551
+2023,Retention Rate,Two or more races,Out-of-state,0.635
+2023,Graduation Rate,Two or more races,Out-of-state,0.543
+2023,Retention Rate,Two or more races,Foreign,0.74
+2023,Graduation Rate,Two or more races,Foreign,0.67

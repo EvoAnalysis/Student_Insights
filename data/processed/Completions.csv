@@ -1,0 +1,251 @@
+Year,Program,Gender,Race,Degrees_Awarded
+2019,Business,Male,White,63
+2019,Business,Male,Black or African American,12
+2019,Business,Male,Hispanic,68
+2019,Business,Male,Asian,80
+2019,Business,Male,Two or more races,65
+2019,Business,Female,White,6
+2019,Business,Female,Black or African American,47
+2019,Business,Female,Hispanic,80
+2019,Business,Female,Asian,38
+2019,Business,Female,Two or more races,45
+2019,Engineering,Male,White,23
+2019,Engineering,Male,Black or African American,97
+2019,Engineering,Male,Hispanic,49
+2019,Engineering,Male,Asian,16
+2019,Engineering,Male,Two or more races,75
+2019,Engineering,Female,White,37
+2019,Engineering,Female,Black or African American,52
+2019,Engineering,Female,Hispanic,46
+2019,Engineering,Female,Asian,34
+2019,Engineering,Female,Two or more races,56
+2019,Health Sciences,Male,White,114
+2019,Health Sciences,Male,Black or African American,22
+2019,Health Sciences,Male,Hispanic,87
+2019,Health Sciences,Male,Asian,111
+2019,Health Sciences,Male,Two or more races,18
+2019,Health Sciences,Female,White,88
+2019,Health Sciences,Female,Black or African American,9
+2019,Health Sciences,Female,Hispanic,86
+2019,Health Sciences,Female,Asian,94
+2019,Health Sciences,Female,Two or more races,53
+2019,Computer Science,Male,White,56
+2019,Computer Science,Male,Black or African American,38
+2019,Computer Science,Male,Hispanic,41
+2019,Computer Science,Male,Asian,37
+2019,Computer Science,Male,Two or more races,102
+2019,Computer Science,Female,White,18
+2019,Computer Science,Female,Black or African American,39
+2019,Computer Science,Female,Hispanic,18
+2019,Computer Science,Female,Asian,71
+2019,Computer Science,Female,Two or more races,31
+2019,Education,Male,White,14
+2019,Education,Male,Black or African American,80
+2019,Education,Male,Hispanic,60
+2019,Education,Male,Asian,87
+2019,Education,Male,Two or more races,24
+2019,Education,Female,White,109
+2019,Education,Female,Black or African American,54
+2019,Education,Female,Hispanic,109
+2019,Education,Female,Asian,33
+2019,Education,Female,Two or more races,120
+2020,Business,Male,White,37
+2020,Business,Male,Black or African American,63
+2020,Business,Male,Hispanic,38
+2020,Business,Male,Asian,104
+2020,Business,Male,Two or more races,55
+2020,Business,Female,White,77
+2020,Business,Female,Black or African American,120
+2020,Business,Female,Hispanic,96
+2020,Business,Female,Asian,73
+2020,Business,Female,Two or more races,105
+2020,Engineering,Male,White,24
+2020,Engineering,Male,Black or African American,96
+2020,Engineering,Male,Hispanic,106
+2020,Engineering,Male,Asian,90
+2020,Engineering,Male,Two or more races,97
+2020,Engineering,Female,White,86
+2020,Engineering,Female,Black or African American,114
+2020,Engineering,Female,Hispanic,16
+2020,Engineering,Female,Asian,61
+2020,Engineering,Female,Two or more races,39
+2020,Health Sciences,Male,White,97
+2020,Health Sciences,Male,Black or African American,58
+2020,Health Sciences,Male,Hispanic,86
+2020,Health Sciences,Male,Asian,39
+2020,Health Sciences,Male,Two or more races,51
+2020,Health Sciences,Female,White,38
+2020,Health Sciences,Female,Black or African American,100
+2020,Health Sciences,Female,Hispanic,81
+2020,Health Sciences,Female,Asian,78
+2020,Health Sciences,Female,Two or more races,79
+2020,Computer Science,Male,White,22
+2020,Computer Science,Male,Black or African American,46
+2020,Computer Science,Male,Hispanic,35
+2020,Computer Science,Male,Asian,108
+2020,Computer Science,Male,Two or more races,22
+2020,Computer Science,Female,White,119
+2020,Computer Science,Female,Black or African American,89
+2020,Computer Science,Female,Hispanic,15
+2020,Computer Science,Female,Asian,105
+2020,Computer Science,Female,Two or more races,78
+2020,Education,Male,White,15
+2020,Education,Male,Black or African American,60
+2020,Education,Male,Hispanic,37
+2020,Education,Male,Asian,67
+2020,Education,Male,Two or more races,22
+2020,Education,Female,White,47
+2020,Education,Female,Black or African American,27
+2020,Education,Female,Hispanic,74
+2020,Education,Female,Asian,65
+2020,Education,Female,Two or more races,10
+2021,Business,Male,White,96
+2021,Business,Male,Black or African American,17
+2021,Business,Male,Hispanic,47
+2021,Business,Male,Asian,99
+2021,Business,Male,Two or more races,115
+2021,Business,Female,White,113
+2021,Business,Female,Black or African American,70
+2021,Business,Female,Hispanic,118
+2021,Business,Female,Asian,48
+2021,Business,Female,Two or more races,9
+2021,Engineering,Male,White,5
+2021,Engineering,Male,Black or African American,91
+2021,Engineering,Male,Hispanic,35
+2021,Engineering,Male,Asian,43
+2021,Engineering,Male,Two or more races,61
+2021,Engineering,Female,White,33
+2021,Engineering,Female,Black or African American,118
+2021,Engineering,Female,Hispanic,5
+2021,Engineering,Female,Asian,60
+2021,Engineering,Female,Two or more races,109
+2021,Health Sciences,Male,White,114
+2021,Health Sciences,Male,Black or African American,79
+2021,Health Sciences,Male,Hispanic,72
+2021,Health Sciences,Male,Asian,36
+2021,Health Sciences,Male,Two or more races,66
+2021,Health Sciences,Female,White,70
+2021,Health Sciences,Female,Black or African American,66
+2021,Health Sciences,Female,Hispanic,80
+2021,Health Sciences,Female,Asian,72
+2021,Health Sciences,Female,Two or more races,78
+2021,Computer Science,Male,White,46
+2021,Computer Science,Male,Black or African American,119
+2021,Computer Science,Male,Hispanic,119
+2021,Computer Science,Male,Asian,38
+2021,Computer Science,Male,Two or more races,11
+2021,Computer Science,Female,White,47
+2021,Computer Science,Female,Black or African American,69
+2021,Computer Science,Female,Hispanic,7
+2021,Computer Science,Female,Asian,92
+2021,Computer Science,Female,Two or more races,74
+2021,Education,Male,White,116
+2021,Education,Male,Black or African American,77
+2021,Education,Male,Hispanic,24
+2021,Education,Male,Asian,28
+2021,Education,Male,Two or more races,98
+2021,Education,Female,White,12
+2021,Education,Female,Black or African American,76
+2021,Education,Female,Hispanic,111
+2021,Education,Female,Asian,109
+2021,Education,Female,Two or more races,89
+2022,Business,Male,White,37
+2022,Business,Male,Black or African American,103
+2022,Business,Male,Hispanic,21
+2022,Business,Male,Asian,96
+2022,Business,Male,Two or more races,11
+2022,Business,Female,White,30
+2022,Business,Female,Black or African American,120
+2022,Business,Female,Hispanic,100
+2022,Business,Female,Asian,73
+2022,Business,Female,Two or more races,105
+2022,Engineering,Male,White,47
+2022,Engineering,Male,Black or African American,74
+2022,Engineering,Male,Hispanic,107
+2022,Engineering,Male,Asian,42
+2022,Engineering,Male,Two or more races,93
+2022,Engineering,Female,White,19
+2022,Engineering,Female,Black or African American,54
+2022,Engineering,Female,Hispanic,84
+2022,Engineering,Female,Asian,16
+2022,Engineering,Female,Two or more races,41
+2022,Health Sciences,Male,White,109
+2022,Health Sciences,Male,Black or African American,35
+2022,Health Sciences,Male,Hispanic,76
+2022,Health Sciences,Male,Asian,106
+2022,Health Sciences,Male,Two or more races,61
+2022,Health Sciences,Female,White,42
+2022,Health Sciences,Female,Black or African American,55
+2022,Health Sciences,Female,Hispanic,45
+2022,Health Sciences,Female,Asian,17
+2022,Health Sciences,Female,Two or more races,117
+2022,Computer Science,Male,White,81
+2022,Computer Science,Male,Black or African American,62
+2022,Computer Science,Male,Hispanic,95
+2022,Computer Science,Male,Asian,68
+2022,Computer Science,Male,Two or more races,52
+2022,Computer Science,Female,White,46
+2022,Computer Science,Female,Black or African American,57
+2022,Computer Science,Female,Hispanic,18
+2022,Computer Science,Female,Asian,95
+2022,Computer Science,Female,Two or more races,73
+2022,Education,Male,White,89
+2022,Education,Male,Black or African American,28
+2022,Education,Male,Hispanic,106
+2022,Education,Male,Asian,97
+2022,Education,Male,Two or more races,42
+2022,Education,Female,White,105
+2022,Education,Female,Black or African American,25
+2022,Education,Female,Hispanic,75
+2022,Education,Female,Asian,48
+2022,Education,Female,Two or more races,75
+2023,Business,Male,White,19
+2023,Business,Male,Black or African American,65
+2023,Business,Male,Hispanic,28
+2023,Business,Male,Asian,116
+2023,Business,Male,Two or more races,95
+2023,Business,Female,White,93
+2023,Business,Female,Black or African American,13
+2023,Business,Female,Hispanic,42
+2023,Business,Female,Asian,98
+2023,Business,Female,Two or more races,116
+2023,Engineering,Male,White,17
+2023,Engineering,Male,Black or African American,33
+2023,Engineering,Male,Hispanic,102
+2023,Engineering,Male,Asian,42
+2023,Engineering,Male,Two or more races,45
+2023,Engineering,Female,White,115
+2023,Engineering,Female,Black or African American,25
+2023,Engineering,Female,Hispanic,15
+2023,Engineering,Female,Asian,49
+2023,Engineering,Female,Two or more races,11
+2023,Health Sciences,Male,White,23
+2023,Health Sciences,Male,Black or African American,57
+2023,Health Sciences,Male,Hispanic,96
+2023,Health Sciences,Male,Asian,12
+2023,Health Sciences,Male,Two or more races,48
+2023,Health Sciences,Female,White,69
+2023,Health Sciences,Female,Black or African American,103
+2023,Health Sciences,Female,Hispanic,14
+2023,Health Sciences,Female,Asian,80
+2023,Health Sciences,Female,Two or more races,60
+2023,Computer Science,Male,White,17
+2023,Computer Science,Male,Black or African American,118
+2023,Computer Science,Male,Hispanic,43
+2023,Computer Science,Male,Asian,34
+2023,Computer Science,Male,Two or more races,85
+2023,Computer Science,Female,White,19
+2023,Computer Science,Female,Black or African American,116
+2023,Computer Science,Female,Hispanic,25
+2023,Computer Science,Female,Asian,113
+2023,Computer Science,Female,Two or more races,30
+2023,Education,Male,White,83
+2023,Education,Male,Black or African American,27
+2023,Education,Male,Hispanic,5
+2023,Education,Male,Asian,75
+2023,Education,Male,Two or more races,59
+2023,Education,Female,White,26
+2023,Education,Female,Black or African American,70
+2023,Education,Female,Hispanic,90
+2023,Education,Female,Asian,5
+2023,Education,Female,Two or more races,45
