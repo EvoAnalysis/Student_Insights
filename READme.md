@@ -57,7 +57,7 @@ Student_Insights/
 ## 🔍 Key Analysis Areas
 - Enrollment trends by demographic group and residency
 - Completion patterns across academic programs
-- Impact of COVID-19 on retention rates, including drop and recovery (peaked at 82% in 2022)
+- Impact of COVID on retention rates, including drop and recovery (peaked at 82% in 2022)
 - Changes in university staffing over time by role
 
 ---
@@ -71,12 +71,12 @@ Student_Insights/
 ---
 
 ## 📝 Executive Summary
-See `Report Summary.pdf` for a complete narrative interpretation of all key visuals, including trends and takeaways. The Word version is included for editing.
+See `Report Summary.pdf` for a narrative of all visuals, including trends and takeaways, The Word version is included for editing.
 
 ---
 
 ## 📌 Notes
-This is a portfolio project using mock data to demonstrate data workflow and technical ability—not a real-world institutional analysis.
+This is a portfolio project using mock data to demonstrate data workflow and technical ability—not a real-world analysis.
 
 ---
 
